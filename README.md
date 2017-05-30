@@ -3,4 +3,4 @@ useful apps and configs
 
 ## Basic
 
-* [cmder](http://cmder.net/)
+* [cmder](http://cmder.net/) `WIN` - portable console emulator for Windows
