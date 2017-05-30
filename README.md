@@ -5,7 +5,7 @@ useful apps and configs
 
 * [cmder](http://cmder.net/) `WIN` - portable console emulator for Windows
 * [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
-* [PhraseExpress](http://www.phraseexpress.com/)
+* [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
 
 ## Android
 
