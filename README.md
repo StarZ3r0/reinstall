@@ -1,7 +1,7 @@
 # reinstall
 useful apps and configs
 
-## GFX
+## Gfx
 
 * [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
 
