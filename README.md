@@ -1,6 +1,10 @@
 # reinstall
 useful apps and configs
 
+## Dev
+
+* [Tower](https://www.git-tower.com/windows/)
+
 ## Gfx
 
 * [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
@@ -9,6 +13,7 @@ useful apps and configs
 
 * [FontBase](http://fontba.se/)
 * Microsoft Office 2016
+* [Apache OpenOffice](https://www.openoffice.org/)
 * [Sublime Text 3](https://www.sublimetext.com/3)
 
 ## Tools
@@ -23,4 +28,5 @@ useful apps and configs
 
 ## Others
 
+* [Steam](http://store.steampowered.com/)
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
