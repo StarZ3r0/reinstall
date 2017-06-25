@@ -1,10 +1,16 @@
 # reinstall
 useful apps and configs
 
+## Windows 
+
+* cmd
+* PowerShell
+
 ## Dev
 
 * [JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
 * [Oracle VM VirtualBox](https://www.virtualbox.org/)
+* [Vagrant](https://www.vagrantup.com/)
 
 ### Git clients
 
@@ -12,6 +18,9 @@ useful apps and configs
 
 ## Internet
 
+* PC Tools Password Utilities
+* [KeePass](http://keepass.info/)
+* [PuTTY](http://www.putty.org/)
 * [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
 * [WinSCP](https://winscp.net/)
 * [SmartFTP](https://www.smartftp.com/) - Backblaze B2 support
