@@ -5,6 +5,7 @@ useful apps and configs
 
 * cmd
 * PowerShell
+* [Total Commander](https://www.ghisler.com/)
 
 ## Dev
 
@@ -18,12 +19,23 @@ useful apps and configs
 
 ## Internet
 
+* [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+* [Firefox](https://www.mozilla.org/hu/firefox/new/)
+* [Thunderbird](https://www.mozilla.org/hu/thunderbird/)
+* [Skype](https://www.skype.com/hu/)
+* [HexChat](https://hexchat.github.io/)
+* [Dropbox](https://www.dropbox.com/)
 * PC Tools Password Utilities
 * [KeePass](http://keepass.info/)
 * [PuTTY](http://www.putty.org/)
 * [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
+
+### FTP clients
+
 * [WinSCP](https://winscp.net/)
 * [SmartFTP](https://www.smartftp.com/) - Backblaze B2 support
+* [FileZilla](https://filezilla-project.org/)
+* [FlashFXP](https://www.flashfxp.com/)
 
 ## Gfx
 
