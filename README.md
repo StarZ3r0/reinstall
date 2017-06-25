@@ -44,6 +44,8 @@ useful apps and configs
 ## Media
 
 * [TEncoder](http://tencoder.sourceforge.net/)
+* [4K Video Downloader](https://www.4kdownload.com/)
+* [SMPlayer](http://www.smplayer.info/) ([SMTube](http://www.smtube.org/))
 
 ## Text
 
