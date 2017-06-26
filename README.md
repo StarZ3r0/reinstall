@@ -7,6 +7,10 @@ useful apps and configs
 * PowerShell
 * [Total Commander](https://www.ghisler.com/)
 
+## Backup
+
+* [GoodSync](https://www.goodsync.com/) - Backblaze B2 support
+
 ## Dev
 
 * [JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
