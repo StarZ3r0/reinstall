@@ -6,6 +6,8 @@ useful apps and configs
 * cmd
 * PowerShell
 * [Total Commander](https://www.ghisler.com/)
+* [CCleaner](https://www.piriform.com/ccleaner)
+* 
 
 ## Backup
 
@@ -18,6 +20,9 @@ useful apps and configs
 * [Vagrant](https://www.vagrantup.com/)
 * [XAMPP](https://www.apachefriends.org/hu/index.html) (multiple version + memcache + https)
 * [Laragon](https://laragon.org/)
+* [Python](https://www.python.org/downloads/)
+* [Ruby](https://rubyinstaller.org/)
+* [Scotch Box](https://box.scotch.io/)
 
 ### Git clients
 
@@ -31,6 +36,7 @@ useful apps and configs
 * [Skype](https://www.skype.com/hu/)
 * [HexChat](https://hexchat.github.io/)
 * [Dropbox](https://www.dropbox.com/)
+* [DC++](http://dcplusplus.sourceforge.net/)
 * PC Tools Password Utilities
 * [KeePass](http://keepass.info/)
 * [PuTTY](http://www.putty.org/)
@@ -46,15 +52,18 @@ useful apps and configs
 ## Gfx
 
 * [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
+* [CorelDRAW](http://www.coreldraw.com/en/product/graphic-design-software/?topNav=en)
 
 ## Media
 
 * [TEncoder](http://tencoder.sourceforge.net/)
+* [Avidemux](http://fixounet.free.fr/avidemux/)
 * [4K Video Downloader](https://www.4kdownload.com/)
 * [SMPlayer](http://www.smplayer.info/) ([SMTube](http://www.smtube.org/))
 
 ## Text
 
+* [ResophNotes](http://resoph.com/ResophNotes/Welcome.html)
 * [FontForge](https://fontforge.github.io/en-US/)
 * [FontBase](http://fontba.se/)
 * Microsoft Office 2016
@@ -78,6 +87,7 @@ useful apps and configs
 
 ## Others
 
+* MPCP
 * [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
 * [MuseScore](https://musescore.org)
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
