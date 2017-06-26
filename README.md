@@ -16,7 +16,7 @@ useful apps and configs
 * [JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
 * [Oracle VM VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
-* [XAMPP](https://www.apachefriends.org/hu/index.html)
+* [XAMPP](https://www.apachefriends.org/hu/index.html) (multiple version + memcache + https)
 * [Laragon](https://laragon.org/)
 
 ### Git clients
