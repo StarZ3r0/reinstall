@@ -7,7 +7,7 @@ useful apps and configs
 * PowerShell
 * [Total Commander](https://www.ghisler.com/)
 * [CCleaner](https://www.piriform.com/ccleaner)
-* 
+* [Google Photos](https://photos.google.com/apps)
 
 ## Backup
 
@@ -51,7 +51,7 @@ useful apps and configs
 
 ## Gfx
 
-* [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
+* [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html) addons: [Google Nik Collection](https://www.google.com/nikcollection/)
 * [CorelDRAW](http://www.coreldraw.com/en/product/graphic-design-software/?topNav=en)
 
 ## Media
