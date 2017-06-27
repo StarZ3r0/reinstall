@@ -11,7 +11,7 @@ useful apps and configs
 
 * [Java](https://www.java.com/en/download/win8.jsp)
 
-### Antivirus
+## Antivirus
 
 * [Eset NOD32 Antivirus](https://www.eset.com/)
 
