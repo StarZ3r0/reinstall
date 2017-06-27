@@ -3,6 +3,47 @@ useful apps and configs
 
 ## Windows 
 
+
+
+* [Nod Antivirus](https://www.eset.com/)
+
+* [VLC](http://www.videolan.org/)
+* [foobar2000](http://www.foobar2000.org/)
+* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
+* [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
+
+* [TeamViewer](https://www.teamviewer.com/hu/)
+
+* [Adobe Illustrator](http://www.adobe.com/hu/products/illustrator.html)
+* [Adobe Acrobat](https://get.adobe.com/hu/reader/)
+* [Adobe Flash Player](https://get.adobe.com/flashplayer/)
+
+* [AIDA64](https://www.aida64.com/downloads)
+* [IrfanView](http://www.irfanview.com/)
+* [Notepad++](https://notepad-plus-plus.org/download/v7.4.2.html)
+
+* [uTorrent](http://www.utorrent.com/)
+
+* [Teamspeak](https://www.teamspeak.com/)
+* [Discord](https://discordapp.com/)
+
+* [PatchCleaner](https://www.hibridlevel.hu/)
+* [Arena chess](http://www.playwitharena.com/)
+* [Hibridlevel](https://www.hibridlevel.hu/)
+* [Clear Admin](http://www.clearadmin.hu/)
+* [VoipConnect](http://www.voipconnect.com/dashboard)
+* [BSplayer](http://bsplayer.com/)
+* [WinCDEmu](http://wincdemu.sysprogs.org/)
+* [WinDirStat](https://windirstat.net/)
+* [WM Recorder](http://wmrecorder.com/home/)
+* [f.lux](https://justgetflux.com/)
+
+* [Fontea](https://fontea.madebysource.com/)
+* [ImageMagick](https://www.imagemagick.org/script/index.php)
+* [Java](https://java.com/en/)
+* [JDownloader](http://jdownloader.org/)
+* [MEGAsync](https://mega.nz/sync)
+
 * cmd
 * PowerShell
 * [Total Commander](https://www.ghisler.com/)
@@ -26,10 +67,14 @@ useful apps and configs
 
 ### Git clients
 
+* [Git](https://git-scm.com)
+* [TortoiseGit](https://tortoisegit.org/)
 * [Tower](https://www.git-tower.com/windows/)
 
 ## Internet
 
+* [Opera](http://www.opera.com/hu)
+* [Internet Explorer](https://www.microsoft.com/hu-hu/download/internet-explorer.aspx)
 * [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [Firefox](https://www.mozilla.org/hu/firefox/new/)
 * [Thunderbird](https://www.mozilla.org/hu/thunderbird/)
