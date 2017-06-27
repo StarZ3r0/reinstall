@@ -3,32 +3,22 @@ useful apps and configs
 
 ## Windows 
 
-* [Eset NOD Antivirus](https://www.eset.com/)
-* [VLC](http://www.videolan.org/)
-* [foobar2000](http://www.foobar2000.org/)
-* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
-* [TeamViewer](https://www.teamviewer.com/hu/)
-* [Adobe Illustrator](http://www.adobe.com/hu/products/illustrator.html)
-* [Adobe Acrobat](https://acrobat.adobe.com/hu/hu/acrobat/acrobat-pro.html)
-* [Adobe Flash Player](https://get.adobe.com/flashplayer/)
-* [WinCDEmu](http://wincdemu.sysprogs.org/)
-* [WinDirStat](https://windirstat.net/)
-* [WM Recorder](http://wmrecorder.com/home/)
-* [f.lux](https://justgetflux.com/)
-* [ImageMagick](https://www.imagemagick.org/script/index.php)
-* [Java](https://java.com/en/)
-* [JDownloader](http://jdownloader.org/)
-* [CCleaner](https://www.piriform.com/ccleaner)
-* [Google Photos](https://photos.google.com/apps)
-
 * cmd
 * PowerShell
 * [PatchCleaner](https://www.hibridlevel.hu/)
 
+### Framework
+
+* [Java](https://www.java.com/en/download/win8.jsp)
+
+### Antivirus
+
+* [Eset NOD32 Antivirus](https://www.eset.com/)
 
 ## Backup
 
 * [GoodSync](https://www.goodsync.com/) - Backblaze B2 support
+* [Google Photos](https://photos.google.com/apps)
 
 ## Dev
 
@@ -41,6 +31,7 @@ useful apps and configs
 * [Laragon](https://laragon.org/)
 * [Python](https://www.python.org/downloads/)
 * [Ruby](https://rubyinstaller.org/)
+* [ImageMagick](https://www.imagemagick.org/script/index.php)
 
 ### Git clients
 
@@ -54,6 +45,8 @@ useful apps and configs
 * [DC++](http://dcplusplus.sourceforge.net/)
 * [PuTTY](http://www.putty.org/)
 * [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
+* [JDownloader](http://jdownloader.org/)
+* [TeamViewer](https://www.teamviewer.com/hu/)
 
 ### File sharing
 
@@ -79,6 +72,10 @@ useful apps and configs
 * [Opera](http://www.opera.com/hu)
 * [Firefox](https://www.mozilla.org/hu/firefox/new/)
 
+#### Browser plugin
+
+* [Adobe Flash Player](https://get.adobe.com/flashplayer/)
+
 ### FTP clients
 
 * [WinSCP](https://winscp.net/)
@@ -89,6 +86,7 @@ useful apps and configs
 ## Gfx
 
 * [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
+* [Adobe Illustrator](http://www.adobe.com/hu/products/illustrator.html)
 * [CorelDRAW](http://www.coreldraw.com/en/product/graphic-design-software/?topNav=en)
 
 ### Photoshop addons
@@ -102,11 +100,15 @@ useful apps and configs
 * [TEncoder](http://tencoder.sourceforge.net/)
 * [Avidemux](http://fixounet.free.fr/avidemux/)
 * [4K Video Downloader](https://www.4kdownload.com/)
+* [WM Recorder](http://wmrecorder.com/home/)
+* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
 
 ### Players
 
 * [BSplayer](http://bsplayer.com/)
 * [SMPlayer](http://www.smplayer.info/) ([SMTube](http://www.smtube.org/))
+* [VLC](http://www.videolan.org/)
+* [foobar2000](http://www.foobar2000.org/)
 
 ### Image viewers
 
@@ -119,6 +121,10 @@ useful apps and configs
 * [vim](http://www.vim.org/) - gvim
 * [ResophNotes](http://resoph.com/ResophNotes/Welcome.html)
 * [Notepad++](https://notepad-plus-plus.org/download/v7.4.2.html)
+
+### PDF tools
+
+* [Adobe Acrobat](https://acrobat.adobe.com/hu/hu/acrobat/acrobat-pro.html)
 
 ### Font management
 
@@ -133,6 +139,10 @@ useful apps and configs
 * [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
 * [KeePass](http://keepass.info/)
 * [AIDA64](https://www.aida64.com/downloads)
+* [f.lux](https://justgetflux.com/)
+* [WinCDEmu](http://wincdemu.sysprogs.org/)
+* [WinDirStat](https://windirstat.net/)
+* [CCleaner](https://www.piriform.com/ccleaner)
 * PC Tools Password Utilities
 
 ## Android
