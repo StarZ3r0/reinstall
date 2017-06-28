@@ -99,6 +99,7 @@ useful apps and configs
 * [Adobe Illustrator](http://www.adobe.com/hu/products/illustrator.html)
 * [CorelDRAW](http://www.coreldraw.com/en/product/graphic-design-software/?topNav=en)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
+* [ColorMania](http://www.blacksunsoftware.com/colormania.html)
 
 ### Manipulate photos
 
