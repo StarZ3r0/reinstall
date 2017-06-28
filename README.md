@@ -99,6 +99,12 @@ useful apps and configs
 * [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
 * [Adobe Illustrator](http://www.adobe.com/hu/products/illustrator.html)
 * [CorelDRAW](http://www.coreldraw.com/en/product/graphic-design-software/?topNav=en)
+* [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
+
+### Manipulate photos
+
+* [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+* [Adobe Photoshop Lightroom](https://lightroom.adobe.com/)
 
 ### Photoshop addons
 
@@ -178,3 +184,4 @@ useful apps and configs
 ## Useful links
 
 * [Neszetools](http://neszetools.hu/) - best app collection
+* [Lifehacker App Directory](http://lifehacker.com/the-lifehacker-app-directory-curates-the-best-apps-for-5803257)
