@@ -45,7 +45,6 @@ useful apps and configs
 
 * [Git](https://git-scm.com)
 * [TortoiseGit](https://tortoisegit.org/)
-* [Tower](https://www.git-tower.com/windows/)
 
 ## Internet
 
