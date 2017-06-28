@@ -41,15 +41,18 @@ useful apps and configs
 
 ## Internet
 
-* [Dropbox](https://www.dropbox.com/)
-* [DC++](http://dcplusplus.sourceforge.net/)
 * [PuTTY](http://www.putty.org/)
 * [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
-* [JDownloader](http://jdownloader.org/)
 * [TeamViewer](https://www.teamviewer.com/hu/)
+
+### Download manager
+
+* [JDownloader](http://jdownloader.org/)
 
 ### File sharing
 
+* [Dropbox](https://www.dropbox.com/)
+* [DC++](http://dcplusplus.sourceforge.net/)
 * [uTorrent](http://www.utorrent.com/)
 * [MEGAsync](https://mega.nz/sync)
 
