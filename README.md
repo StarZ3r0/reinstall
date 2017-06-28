@@ -162,3 +162,7 @@ useful apps and configs
 * [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
 * [Hibridlevel](https://www.hibridlevel.hu/) `HU`
 * [Clear Admin](http://www.clearadmin.hu/) `HU`
+
+## Useful links
+
+* [Neszetools](http://neszetools.hu/) - best app collection
