@@ -24,14 +24,22 @@ useful apps and configs
 
 * [JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
 * [Sublime Text 3](https://www.sublimetext.com/3)
-* [Oracle VM VirtualBox](https://www.virtualbox.org/)
-* [Vagrant](https://www.vagrantup.com/)
-* [Scotch Box](https://box.scotch.io/)
 * [XAMPP](https://www.apachefriends.org/hu/index.html) (multiple version + memcache + https)
-* [Laragon](https://laragon.org/)
 * [Python](https://www.python.org/downloads/)
 * [Ruby](https://rubyinstaller.org/)
 * [ImageMagick](https://www.imagemagick.org/script/index.php)
+
+### XAMPP alternatives
+
+* [Laragon](https://laragon.org/)
+* [Oracle VM VirtualBox](https://www.virtualbox.org/)
+* [Vagrant](https://www.vagrantup.com/)
+* [Scotch Box](https://box.scotch.io/)
+
+### ST3 alternatives
+
+* [Atom](https://atom.io/)
+* [Brackets](http://brackets.io/)
 
 ### Git clients
 
@@ -146,11 +154,8 @@ useful apps and configs
 * [WinCDEmu](http://wincdemu.sysprogs.org/)
 * [WinDirStat](https://windirstat.net/)
 * [CCleaner](https://www.piriform.com/ccleaner)
+* [AirDroid](https://www.airdroid.com/)
 * PC Tools Password Utilities
-
-## Android
-
-* [Dark Sky](https://play.google.com/store/apps/details?id=net.darksky.darksky) - Dark Sky is the most accurate source of hyperlocal weather information.
 
 ## Game
 
@@ -165,6 +170,10 @@ useful apps and configs
 * [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
 * [Hibridlevel](https://www.hibridlevel.hu/) `HU`
 * [Clear Admin](http://www.clearadmin.hu/) `HU`
+
+## Android
+
+* [Dark Sky](https://play.google.com/store/apps/details?id=net.darksky.darksky) - Dark Sky is the most accurate source of hyperlocal weather information.
 
 ## Useful links
 
