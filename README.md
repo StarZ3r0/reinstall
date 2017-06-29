@@ -170,6 +170,7 @@ useful apps and configs
 * [SMPlayer](http://www.smplayer.info/) ([SMTube](http://www.smtube.org/))
 * [VLC](http://www.videolan.org/)
 * [foobar2000](http://www.foobar2000.org/)
+* [Spotify](https://www.spotify.com/)
 * [AMRPlayer](http://www.amrplayer.com)
 
 ### Image viewers
