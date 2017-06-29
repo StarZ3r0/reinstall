@@ -235,6 +235,7 @@ useful apps and configs
 
 * [Everything](https://www.voidtools.com)
 * [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
+* [AutoHotkey](https://autohotkey.com/)
 * [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
 * [RescueTime](https://www.rescuetime.com)
 
