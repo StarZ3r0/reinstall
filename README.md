@@ -191,7 +191,7 @@ useful apps and configs
 * [Adobe Acrobat](https://acrobat.adobe.com/hu/hu/acrobat/acrobat-pro.html)
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
-## Sytem utilities
+## System utilities
 
 ### Diagnostic
 
@@ -214,13 +214,6 @@ useful apps and configs
 * [ImgBurn](http://www.imgburn.com)
 * [WinCDEmu](http://wincdemu.sysprogs.org/)
 
-### Productivity
-
-* [Everything](https://www.voidtools.com)
-* [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
-* [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
-* [RescueTime](https://www.rescuetime.com)
-
 ## Tools, util
 
 * [Total Commander](https://www.ghisler.com/)
@@ -236,7 +229,14 @@ useful apps and configs
 * [OpenSong](http://www.opensong.org)
 * [MuseScore](https://musescore.org)
 * PC Tools Password Utilities
-* MPCP
+* MPCP (Multiplayer Church Projector)
+
+### Productivity
+
+* [Everything](https://www.voidtools.com)
+* [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
+* [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
+* [RescueTime](https://www.rescuetime.com)
 
 ### Localized apps
 
