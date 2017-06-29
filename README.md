@@ -1,59 +1,19 @@
 # reinstall
 useful apps and configs
 
-
-
-* [Everything](https://www.voidtools.com)
-* [EZ CD Audio Converter](https://www.poikosoft.com)
-* [GoldWave](https://www.goldwave.com)
-* [LockHunter](https://lockhunter.com)
-* [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
-* [OpenSSL](https://www.openssl.org)
-* [PowerISO](https://www.poweriso.com)
-* [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
-* [WinRAR](http://www.win-rar.com/start.html?&L=0)
-* [AC3Filter](http://www.ac3filter.net)
-* [AMRPlayer](http://www.amrplayer.com)
-* [Beyond Compare](https://www.scootersoftware.com)
-* [Brackets](http://brackets.io)
-* [Clipdiary](http://clipdiary.com)
-* [ColorCop](http://colorcop.net)
-* [Composer](https://getcomposer.org)
-* [FastStone Image Viewer](http://www.faststone.org)
-* [Fiddler](http://www.telerik.com/fiddler)
-* [Font Xplorer](https://www.fontexplorerx.com)
-* [Free Download Manager](http://www.freedownloadmanager.org)
-* [FreeCountdownTimer](http://free-countdown-timer.com)
-* [Freemake Video Downloader](http://www.freemake.com/hu/downloads/)
-* [Freemake Video Converter](http://www.freemake.com/hu/)
-* [Hard Disk Sentinel](https://www.hdsentinel.com)
-* [HostsMan](http://www.abelhadigital.com/hostsman)
-* [ImgBurn](http://www.imgburn.com)
-* [Mp3tag](http://www.mp3tag.de/en/)
-* [Neor Profile SQL](http://www.profilesql.com)
-* [Net Meter](http://www.netmeter.eu)
-* [NodeJS](https://nodejs.org/en/)
-* [OpenSong](http://www.opensong.org)
-* [PhraseExpress](http://www.phraseexpress.com)
-* [Poedit](https://poedit.net)
-* [RealTemp](https://www.techpowerup.com/realtemp/)
-* [RescueTime](https://www.rescuetime.com)
-* [SPGrab](http://www.spgrab.com)
-* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
-* [Sweet Home 3D](http://www.sweethome3d.com/hu/)
-* [UltraISO](https://www.ezbsystems.com/ultraiso/)
-* [MS Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
-
-
 ## Windows 
 
 * cmd
 * PowerShell
+* [cmder](http://cmder.net/) `WIN` - portable console emulator for Windows
 * [PatchCleaner](https://www.hibridlevel.hu/)
+* [LockHunter](https://lockhunter.com)
 
 ### Framework
 
 * [Java](https://www.java.com/en/download/win8.jsp)
+* [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
+* [Microsoft Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
 ## Antivirus
 
@@ -71,7 +31,18 @@ useful apps and configs
 * [XAMPP](https://www.apachefriends.org/hu/index.html) (multiple version + memcache + https)
 * [Python](https://www.python.org/downloads/)
 * [Ruby](https://rubyinstaller.org/)
+* [NodeJS](https://nodejs.org/en/)
 * [ImageMagick](https://www.imagemagick.org/script/index.php)
+* [Fiddler](http://www.telerik.com/fiddler)
+* [Composer](https://getcomposer.org)
+* [HostsMan](http://www.abelhadigital.com/hostsman)
+* [Beyond Compare](https://www.scootersoftware.com)
+
+### SQL manipulate
+
+* [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
+* [HeidiSQL](https://www.heidisql.com/)
+* [Neor Profile SQL](http://www.profilesql.com)
 
 ### XAMPP alternatives
 
@@ -94,10 +65,13 @@ useful apps and configs
 
 * [PuTTY](http://www.putty.org/)
 * [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
+* [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html)
 * [TeamViewer](https://www.teamviewer.com/hu/)
+* [Net Meter](http://www.hootech.com/NetMeter/)
 
 ### Download manager
 
+* [Free Download Manager](http://www.freedownloadmanager.org)
 * [JDownloader](http://jdownloader.org/)
 
 ### File sharing
@@ -144,6 +118,7 @@ useful apps and configs
 * [CorelDRAW](http://www.coreldraw.com/en/product/graphic-design-software/?topNav=en)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
 * [ColorMania](http://www.blacksunsoftware.com/colormania.html)
+* [ColorCop](http://colorcop.net)
 
 ### Manipulate photos
 
@@ -155,14 +130,28 @@ useful apps and configs
 * [Fontea](https://fontea.madebysource.com/)
 * [Google Nik Collection](https://www.google.com/nikcollection/)
 
+### Font management
+
+* [FontForge](https://fontforge.github.io/en-US/)
+* [FontBase](http://fontba.se/)
+* [Font Xplorer](http://www.moonsoftware.com/fxplorer.asp)
+
 ## Media
 
-* [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
 * [TEncoder](http://tencoder.sourceforge.net/)
 * [Avidemux](http://fixounet.free.fr/avidemux/)
 * [4K Video Downloader](https://www.4kdownload.com/)
 * [WM Recorder](http://wmrecorder.com/home/)
 * [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
+* [EZ CD Audio Converter](https://www.poikosoft.com)
+* [GoldWave](https://www.goldwave.com)
+* [Freemake Video Downloader](http://www.freemake.com/hu/downloads/)
+* [Freemake Video Converter](http://www.freemake.com/hu/)
+
+### Codecs
+
+* [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
+* [AC3Filter](http://www.ac3filter.net)
 
 ### Players
 
@@ -170,10 +159,12 @@ useful apps and configs
 * [SMPlayer](http://www.smplayer.info/) ([SMTube](http://www.smtube.org/))
 * [VLC](http://www.videolan.org/)
 * [foobar2000](http://www.foobar2000.org/)
+* [AMRPlayer](http://www.amrplayer.com)
 
 ### Image viewers
 
 * [IrfanView](http://www.irfanview.com/)
+* [FastStone Image Viewer](http://www.faststone.org)
 
 ## Text editing
 
@@ -186,16 +177,13 @@ useful apps and configs
 ### PDF tools
 
 * [Adobe Acrobat](https://acrobat.adobe.com/hu/hu/acrobat/acrobat-pro.html)
-
-### Font management
-
-* [FontForge](https://fontforge.github.io/en-US/)
-* [FontBase](http://fontba.se/)
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
 ## Tools, util
 
 * [Total Commander](https://www.ghisler.com/)
-* [cmder](http://cmder.net/) `WIN` - portable console emulator for Windows
+* [PowerISO](https://www.poweriso.com)
+* [UltraISO](https://www.ezbsystems.com/ultraiso/)
 * [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
 * [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
 * [KeePass](http://keepass.info/)
@@ -205,6 +193,19 @@ useful apps and configs
 * [WinDirStat](https://windirstat.net/)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [AirDroid](https://www.airdroid.com/)
+* [Sweet Home 3D](http://www.sweethome3d.com/hu/)
+* [PhraseExpress](http://www.phraseexpress.com)
+* [Poedit](https://poedit.net)
+* [RealTemp](https://www.techpowerup.com/realtemp/)
+* [RescueTime](https://www.rescuetime.com)
+* [SPGrab](http://www.spgrab.com)
+* [Clipdiary](http://clipdiary.com)
+* [Hard Disk Sentinel](https://www.hdsentinel.com)
+* [ImgBurn](http://www.imgburn.com)
+* [Mp3tag](http://www.mp3tag.de/en/)
+* [Everything](https://www.voidtools.com)
+* [WinRAR](http://www.win-rar.com/)
+* [Free Countdown Timer](http://free-countdown-timer.com)
 * PC Tools Password Utilities
 
 ## Game
@@ -215,11 +216,12 @@ useful apps and configs
 ## Others
 
 * MPCP
+* [OpenSong](http://www.opensong.org)
 * [MuseScore](https://musescore.org)
-* [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
 * [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
 * [Hibridlevel](https://www.hibridlevel.hu/) `HU`
 * [Clear Admin](http://www.clearadmin.hu/) `HU`
+* [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
 
 ## Android
 
