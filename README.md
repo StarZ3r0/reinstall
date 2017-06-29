@@ -9,15 +9,20 @@ useful apps and configs
 * [PatchCleaner](https://www.hibridlevel.hu/)
 * [LockHunter](https://lockhunter.com)
 
+### Config
+
+* set up [Google Public DNS](https://developers.google.com/speed/public-dns/?hl=hu-HU)
+
 ### Framework
 
 * [Java](https://www.java.com/en/download/win8.jsp)
 * [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
 * [Microsoft Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
-## Antivirus
+## Antivirus & firewall
 
 * [Eset NOD32 Antivirus](https://www.eset.com/)
+* [GlassWire](https://www.glasswire.com/)
 
 ## Backup
 
@@ -96,9 +101,10 @@ useful apps and configs
 ### Browsers
 
 * [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+* [Firefox](https://www.mozilla.org/hu/firefox/new/)
 * [Internet Explorer](https://www.microsoft.com/hu-hu/download/internet-explorer.aspx)
 * [Opera](http://www.opera.com/hu)
-* [Firefox](https://www.mozilla.org/hu/firefox/new/)
+* [Vivaldi](https://vivaldi.com)
 
 #### Browser plugin
 
@@ -140,13 +146,18 @@ useful apps and configs
 
 * [TEncoder](http://tencoder.sourceforge.net/)
 * [Avidemux](http://fixounet.free.fr/avidemux/)
-* [4K Video Downloader](https://www.4kdownload.com/)
 * [WM Recorder](http://wmrecorder.com/home/)
 * [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
-* [EZ CD Audio Converter](https://www.poikosoft.com)
 * [GoldWave](https://www.goldwave.com)
+* [XSplit Broadcaster](https://www.xsplit.com/#broadcaster)
+
+### Downloaders & converters
+
+* [4K Video Downloader](https://www.4kdownload.com/)
 * [Freemake Video Downloader](http://www.freemake.com/hu/downloads/)
 * [Freemake Video Converter](http://www.freemake.com/hu/)
+* [Miro Video Converter](http://www.mirovideoconverter.com/)
+* [EZ CD Audio Converter](https://www.poikosoft.com)
 
 ### Codecs
 
@@ -173,54 +184,73 @@ useful apps and configs
 * [vim](http://www.vim.org/) - gvim
 * [ResophNotes](http://resoph.com/ResophNotes/Welcome.html)
 * [Notepad++](https://notepad-plus-plus.org/download/v7.4.2.html)
+* [MarkdownPad](http://markdownpad.com/)
 
 ### PDF tools
 
 * [Adobe Acrobat](https://acrobat.adobe.com/hu/hu/acrobat/acrobat-pro.html)
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
+## Sytem utilities
+
+### Diagnostic
+
+* [AIDA64](https://www.aida64.com/downloads)
+* [RealTemp](https://www.techpowerup.com/realtemp/)
+* [MemTest64](https://www.techpowerup.com/memtest64/)
+* [Hard Disk Sentinel](https://www.hdsentinel.com)
+
+### Maintance
+
+* [CCleaner](https://www.piriform.com/ccleaner)
+* [dupeGuru](https://www.hardcoded.net/dupeguru/)
+* [WinDirStat](https://windirstat.net/)
+
+### Manage archives
+
+* [PowerISO](https://www.poweriso.com)
+* [UltraISO](https://www.ezbsystems.com/ultraiso/)
+* [WinRAR](http://www.win-rar.com/)
+* [ImgBurn](http://www.imgburn.com)
+* [WinCDEmu](http://wincdemu.sysprogs.org/)
+
+### Productivity
+
+* [Everything](https://www.voidtools.com)
+* [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
+* [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
+* [RescueTime](https://www.rescuetime.com)
+
 ## Tools, util
 
 * [Total Commander](https://www.ghisler.com/)
-* [PowerISO](https://www.poweriso.com)
-* [UltraISO](https://www.ezbsystems.com/ultraiso/)
-* [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
-* [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
 * [KeePass](http://keepass.info/)
-* [AIDA64](https://www.aida64.com/downloads)
 * [f.lux](https://justgetflux.com/)
-* [WinCDEmu](http://wincdemu.sysprogs.org/)
-* [WinDirStat](https://windirstat.net/)
-* [CCleaner](https://www.piriform.com/ccleaner)
 * [AirDroid](https://www.airdroid.com/)
 * [Sweet Home 3D](http://www.sweethome3d.com/hu/)
-* [PhraseExpress](http://www.phraseexpress.com)
 * [Poedit](https://poedit.net)
-* [RealTemp](https://www.techpowerup.com/realtemp/)
-* [RescueTime](https://www.rescuetime.com)
 * [SPGrab](http://www.spgrab.com)
 * [Clipdiary](http://clipdiary.com)
-* [Hard Disk Sentinel](https://www.hdsentinel.com)
-* [ImgBurn](http://www.imgburn.com)
 * [Mp3tag](http://www.mp3tag.de/en/)
-* [Everything](https://www.voidtools.com)
-* [WinRAR](http://www.win-rar.com/)
 * [Free Countdown Timer](http://free-countdown-timer.com)
+* [OpenSong](http://www.opensong.org)
+* [MuseScore](https://musescore.org)
 * PC Tools Password Utilities
+* MPCP
+
+### Localized apps
+
+* [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
+* [Hibridlevél](https://www.hibridlevel.hu/) `HU`
+* [Clear Admin](http://www.clearadmin.hu/) `HU`
 
 ## Game
 
 * [Steam](http://store.steampowered.com/)
 * [Arena chess](http://www.playwitharena.com/)
 
-## Others
+## Others, fun
 
-* MPCP
-* [OpenSong](http://www.opensong.org)
-* [MuseScore](https://musescore.org)
-* [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
-* [Hibridlevel](https://www.hibridlevel.hu/) `HU`
-* [Clear Admin](http://www.clearadmin.hu/) `HU`
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
 
 ## Android
