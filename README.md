@@ -1,6 +1,50 @@
 # reinstall
 useful apps and configs
 
+
+
+* [Everything](https://www.voidtools.com)
+* [EZ CD Audio Converter](https://www.poikosoft.com)
+* [GoldWave](https://www.goldwave.com)
+* [LockHunter](https://lockhunter.com)
+* [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
+* [OpenSSL](https://www.openssl.org)
+* [PowerISO](https://www.poweriso.com)
+* [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
+* [WinRAR](http://www.win-rar.com/start.html?&L=0)
+* [AC3Filter](http://www.ac3filter.net)
+* [AMRPlayer](http://www.amrplayer.com)
+* [Beyond Compare](https://www.scootersoftware.com)
+* [Brackets](http://brackets.io)
+* [Clipdiary](http://clipdiary.com)
+* [ColorCop](http://colorcop.net)
+* [Composer](https://getcomposer.org)
+* [FastStone Image Viewer](http://www.faststone.org)
+* [Fiddler](http://www.telerik.com/fiddler)
+* [Font Xplorer](https://www.fontexplorerx.com)
+* [Free Download Manager](http://www.freedownloadmanager.org)
+* [FreeCountdownTimer](http://free-countdown-timer.com)
+* [Freemake Video Downloader](http://www.freemake.com/hu/downloads/)
+* [Freemake Video Converter](http://www.freemake.com/hu/)
+* [Hard Disk Sentinel](https://www.hdsentinel.com)
+* [HostsMan](http://www.abelhadigital.com/hostsman)
+* [ImgBurn](http://www.imgburn.com)
+* [Mp3tag](http://www.mp3tag.de/en/)
+* [Neor Profile SQL](http://www.profilesql.com)
+* [Net Meter](http://www.netmeter.eu)
+* [NodeJS](https://nodejs.org/en/)
+* [OpenSong](http://www.opensong.org)
+* [PhraseExpress](http://www.phraseexpress.com)
+* [Poedit](https://poedit.net)
+* [RealTemp](https://www.techpowerup.com/realtemp/)
+* [RescueTime](https://www.rescuetime.com)
+* [SPGrab](http://www.spgrab.com)
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+* [Sweet Home 3D](http://www.sweethome3d.com/hu/)
+* [UltraISO](https://www.ezbsystems.com/ultraiso/)
+* [MS Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
+
 ## Windows 
 
 * cmd
