@@ -1,6 +1,18 @@
 # reinstall
 useful apps and configs
 
+## OS
+
+* [Microsoft Windows](https://www.microsoft.com/hu-hu/windows/)
+* [Ubuntu Server](https://www.ubuntu.com/server)
+* [elementary OS](https://elementary.io/hu/)
+
+### Create install device
+
+* [Rufus](http://rufus.akeo.ie/)
+* [Etcher](https://etcher.io/)
+* [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - Multiboot USB Creator
+
 ## Windows 
 
 * cmd
@@ -8,10 +20,16 @@ useful apps and configs
 * [cmder](http://cmder.net/) `WIN` - portable console emulator for Windows
 * [PatchCleaner](https://www.hibridlevel.hu/)
 * [LockHunter](https://lockhunter.com)
+* [Driver Easy](https://www.drivereasy.com/)
 
 ### Config
 
 * set up [Google Public DNS](https://developers.google.com/speed/public-dns/?hl=hu-HU)
+
+### Shell extension
+
+* [SVG Explorer Extension](https://svgextension.codeplex.com/)
+* [HashCheck](http://code.kliu.org/hashcheck/)
 
 ### Framework
 
@@ -28,6 +46,7 @@ useful apps and configs
 
 * [GoodSync](https://www.goodsync.com/) - Backblaze B2 support
 * [Google Photos](https://photos.google.com/apps)
+* [qBackup](https://www.qualeed.com/en/qbackup/)
 
 ## Dev
 
@@ -77,7 +96,7 @@ useful apps and configs
 ### Download manager
 
 * [Free Download Manager](http://www.freedownloadmanager.org)
-* [JDownloader](http://jdownloader.org/)
+* [JDownloader](http://jdownloader.org/jdownloader2) - automatic download of groups of files from one-click hosting sites
 
 ### File sharing
 
@@ -236,6 +255,7 @@ useful apps and configs
 
 * [Everything](https://www.voidtools.com)
 * [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
+* [Zazu App](http://zazuapp.org/)
 * [AutoHotkey](https://autohotkey.com/)
 * [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
 * [RescueTime](https://www.rescuetime.com)
