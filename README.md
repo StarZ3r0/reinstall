@@ -21,15 +21,18 @@ useful apps and configs
 * [PatchCleaner](https://www.hibridlevel.hu/)
 * [LockHunter](https://lockhunter.com)
 * [Driver Easy](https://www.drivereasy.com/)
+* [Win32Whois](http://www.gena01.com/win32whois/)
 
 ### Config
 
 * set up [Google Public DNS](https://developers.google.com/speed/public-dns/?hl=hu-HU)
+* [Harden Windows 10 - A Security Guide](http://hardenwindows10forsecurity.com/index.html)
 
 ### Shell extension
 
 * [SVG Explorer Extension](https://svgextension.codeplex.com/)
 * [HashCheck](http://code.kliu.org/hashcheck/)
+* [win-sshfs](https://code.google.com/archive/p/win-sshfs/)
 
 ### Framework
 
@@ -37,10 +40,11 @@ useful apps and configs
 * [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
 * [Microsoft Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
-## Antivirus & firewall
+## Antivirus, firewall & security
 
 * [Eset NOD32 Antivirus](https://www.eset.com/)
 * [GlassWire](https://www.glasswire.com/)
+* [Sandboxie](https://www.sandboxie.com/)
 
 ## Backup
 
@@ -74,6 +78,10 @@ useful apps and configs
 * [Oracle VM VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
 * [Scotch Box](https://box.scotch.io/)
+
+### ST3 packages
+
+* [Popular Packages](https://packagecontrol.io/browse/popular)
 
 ### ST3 alternatives
 
@@ -169,6 +177,7 @@ useful apps and configs
 * [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
 * [GoldWave](https://www.goldwave.com)
 * [XSplit Broadcaster](https://www.xsplit.com/#broadcaster)
+* [Audacity](http://www.audacityteam.org/)
 
 ### Downloaders & converters
 
@@ -248,17 +257,32 @@ useful apps and configs
 * [Free Countdown Timer](http://free-countdown-timer.com)
 * [OpenSong](http://www.opensong.org)
 * [MuseScore](https://musescore.org)
+* [Flexible Renamer](http://hp.vector.co.jp/authors/VA014830/english/FlexRena/)
+* [FlashBack](https://www.flashbackrecorder.com/) - screen recorder
+* [TrayStatus](https://www.traystatus.com/)
+* [Karen's Directory Printer](https://karenware.com/powertools/ptdirprn)
+* [NetToolset](http://nettoolset.inteliance.com/)
+* [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
 * PC Tools Password Utilities
 * MPCP (Multiplayer Church Projector)
 
 ### Productivity
 
-* [Everything](https://www.voidtools.com)
 * [Launchy](http://www.launchy.net/) `WIN` - the open source keystroke launcher
 * [Zazu App](http://zazuapp.org/)
+* [RescueTime](https://www.rescuetime.com)
+
+### Search files and text
+
+* [Everything](https://www.voidtools.com)
+* [NirSoft SearchMyFiles](http://www.nirsoft.net/utils/search_my_files.html)
+* [TextCrawler](https://www.digitalvolcano.co.uk/textcrawler.html)
+
+### Text expander
+
 * [AutoHotkey](https://autohotkey.com/)
 * [PhraseExpress](http://www.phraseexpress.com/) `WIN` - autotext and text autocompletion in any application
-* [RescueTime](https://www.rescuetime.com)
+* [AutoText](http://autotextapp.com/)
 
 ### Localized apps
 
