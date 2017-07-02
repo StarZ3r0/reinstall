@@ -263,6 +263,7 @@ useful apps and configs
 * [Karen's Directory Printer](https://karenware.com/powertools/ptdirprn)
 * [NetToolset](http://nettoolset.inteliance.com/)
 * [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
+* [Dexpot](http://dexpot.de/)
 * PC Tools Password Utilities
 * MPCP (Multiplayer Church Projector)
 
