@@ -296,6 +296,17 @@ useful apps and configs
 * [Steam](http://store.steampowered.com/)
 * [Arena chess](http://www.playwitharena.com/)
 
+## Streaming/Recording
+
+* [OBS Studio](https://obsproject.com)
+* [Xsplit](https://www.xsplit.com/)
+
+## Video editing
+
+* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
+* [Wondershare Filmora](www.wondershare.net/ad/video-editor-win/filmora-dco.html)
+
+
 ## Others, fun
 
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
