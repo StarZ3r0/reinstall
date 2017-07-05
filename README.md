@@ -174,10 +174,18 @@ useful apps and configs
 * [TEncoder](http://tencoder.sourceforge.net/)
 * [Avidemux](http://fixounet.free.fr/avidemux/)
 * [WM Recorder](http://wmrecorder.com/home/)
-* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
 * [GoldWave](https://www.goldwave.com)
-* [XSplit Broadcaster](https://www.xsplit.com/#broadcaster)
 * [Audacity](http://www.audacityteam.org/)
+
+### Streaming and recording
+
+* [OBS Studio](https://obsproject.com)
+* [XSplit Broadcaster](https://www.xsplit.com/#broadcaster)
+
+### Video editing
+
+* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
+* [Wondershare Filmora](www.wondershare.net/ad/video-editor-win/filmora-dco.html)
 
 ### Downloaders & converters
 
@@ -295,17 +303,6 @@ useful apps and configs
 
 * [Steam](http://store.steampowered.com/)
 * [Arena chess](http://www.playwitharena.com/)
-
-## Streaming/Recording
-
-* [OBS Studio](https://obsproject.com)
-* [Xsplit](https://www.xsplit.com/)
-
-## Video editing
-
-* [Sony Vegas](http://www.vegascreativesoftware.com/us/vegas-pro/)
-* [Wondershare Filmora](www.wondershare.net/ad/video-editor-win/filmora-dco.html)
-
 
 ## Others, fun
 
