@@ -22,6 +22,7 @@ useful apps and configs
 * [LockHunter](https://lockhunter.com)
 * [Driver Easy](https://www.drivereasy.com/)
 * [Win32Whois](http://www.gena01.com/win32whois/)
+* [OneDrive](https://onedrive.live.com/about/hu-hu/)
 
 ### Config
 
@@ -33,6 +34,13 @@ useful apps and configs
 * [SVG Explorer Extension](https://svgextension.codeplex.com/)
 * [HashCheck](http://code.kliu.org/hashcheck/)
 * [win-sshfs](https://code.google.com/archive/p/win-sshfs/)
+
+### Tweaking
+
+* [TrayStatus](https://www.traystatus.com/)
+* [RBTray](http://rbtray.sourceforge.net/) - allow almost any window to be minimized to the system tray by right clicking its minimize button
+* [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
+* [Dexpot](http://dexpot.de/) - virtual desktop
 
 ### Framework
 
@@ -100,6 +108,9 @@ useful apps and configs
 * [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html)
 * [TeamViewer](https://www.teamviewer.com/hu/)
 * [Net Meter](http://www.hootech.com/NetMeter/)
+* [Wget for Windows](http://gnuwin32.sourceforge.net/packages/wget.htm)
+* [NetToolset](http://nettoolset.inteliance.com/)
+* [NirSoft CurrPorts](http://www.nirsoft.net/utils/cports.html)
 
 ### Download manager
 
@@ -110,6 +121,7 @@ useful apps and configs
 
 * [Dropbox](https://www.dropbox.com/)
 * [DC++](http://dcplusplus.sourceforge.net/)
+* [qBitorrent](https://www.qbittorrent.org/)
 * [uTorrent](http://www.utorrent.com/)
 * [MEGAsync](https://mega.nz/sync)
 
@@ -152,6 +164,7 @@ useful apps and configs
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
 * [ColorMania](http://www.blacksunsoftware.com/colormania.html)
 * [ColorCop](http://colorcop.net)
+* [PicPick](http://ngwin.com/picpick)
 
 ### Manipulate photos
 
@@ -167,6 +180,7 @@ useful apps and configs
 
 * [FontForge](https://fontforge.github.io/en-US/)
 * [FontBase](http://fontba.se/)
+* [NexusFont](http://www.xiles.net/)
 * [Font Xplorer](http://www.moonsoftware.com/fxplorer.asp)
 
 ## Media
@@ -176,6 +190,7 @@ useful apps and configs
 * [WM Recorder](http://wmrecorder.com/home/)
 * [GoldWave](https://www.goldwave.com)
 * [Audacity](http://www.audacityteam.org/)
+* [Subtitle Workshop](http://subworkshop.sourceforge.net/)
 
 ### Streaming and recording
 
@@ -193,7 +208,11 @@ useful apps and configs
 * [Freemake Video Downloader](http://www.freemake.com/hu/downloads/)
 * [Freemake Video Converter](http://www.freemake.com/hu/)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
+
+### Audio rippers and tagging
+
 * [EZ CD Audio Converter](https://www.poikosoft.com)
+* [Mp3tag](http://www.mp3tag.de/en/)
 
 ### Codecs
 
@@ -230,6 +249,8 @@ useful apps and configs
 
 ## System utilities
 
+* [CrystalDiskMark](http://crystalmark.info/software/CrystalDiskMark/index-e.html)
+
 ### Diagnostic
 
 * [AIDA64](https://www.aida64.com/downloads)
@@ -248,31 +269,39 @@ useful apps and configs
 * [PowerISO](https://www.poweriso.com)
 * [UltraISO](https://www.ezbsystems.com/ultraiso/)
 * [WinRAR](http://www.win-rar.com/)
-* [ImgBurn](http://www.imgburn.com)
 * [WinCDEmu](http://wincdemu.sysprogs.org/)
 
 ## Tools, util
 
 * [Total Commander](https://www.ghisler.com/)
-* [KeePass](http://keepass.info/)
 * [f.lux](https://justgetflux.com/)
 * [AirDroid](https://www.airdroid.com/)
 * [Sweet Home 3D](http://www.sweethome3d.com/hu/)
 * [Poedit](https://poedit.net)
 * [SPGrab](http://www.spgrab.com)
 * [Clipdiary](http://clipdiary.com)
-* [Mp3tag](http://www.mp3tag.de/en/)
 * [Free Countdown Timer](http://free-countdown-timer.com)
-* [OpenSong](http://www.opensong.org)
 * [MuseScore](https://musescore.org)
 * [Flexible Renamer](http://hp.vector.co.jp/authors/VA014830/english/FlexRena/)
 * [FlashBack](https://www.flashbackrecorder.com/) - screen recorder
-* [TrayStatus](https://www.traystatus.com/)
 * [Karen's Directory Printer](https://karenware.com/powertools/ptdirprn)
-* [NetToolset](http://nettoolset.inteliance.com/)
-* [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
-* [Dexpot](http://dexpot.de/)
+* [DBAN](https://dban.org/) - free open-source data deletion software
+* [BareTail](https://www.baremetalsoft.com/baretail/) - tail for Windows
+* [Geek Uninstaller](https://geekuninstaller.com/)
+* [ProcessExplorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
+
+### Learning
+
+* [Anki](https://www.ankiapp.com/)
+
+### Password management
+
+* [KeePass](http://keepass.info/)
 * PC Tools Password Utilities
+
+### Presentation
+
+* [OpenSong](http://www.opensong.org)
 * MPCP (Multiplayer Church Projector)
 
 ### Productivity
@@ -285,6 +314,7 @@ useful apps and configs
 
 * [Everything](https://www.voidtools.com)
 * [NirSoft SearchMyFiles](http://www.nirsoft.net/utils/search_my_files.html)
+* [Text Filter](http://www.musetips.com/text-filter.html)
 * [TextCrawler](https://www.digitalvolcano.co.uk/textcrawler.html)
 
 ### Text expander
@@ -299,6 +329,11 @@ useful apps and configs
 * [Hibridlevél](https://www.hibridlevel.hu/) `HU`
 * [Clear Admin](http://www.clearadmin.hu/) `HU`
 
+### CD / DVD / Blu-ray burning
+
+* [ImgBurn](http://www.imgburn.com)
+* [AnyBurn](http://www.anyburn.com/)
+
 ## Game
 
 * [Steam](http://store.steampowered.com/)
@@ -310,7 +345,7 @@ useful apps and configs
 
 ## Android
 
-* [Dark Sky](https://play.google.com/store/apps/details?id=net.darksky.darksky) - Dark Sky is the most accurate source of hyperlocal weather information.
+* [Dark Sky](https://play.google.com/store/apps/details?id=net.darksky.darksky) - the most accurate source of hyperlocal weather information
 
 ## Useful links
 
