@@ -55,6 +55,21 @@ useful apps and configs
 * [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
 * [Microsoft Visual C++ Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
+### Customization
+
+* [Wallhalla](https://wallhalla.com/)
+* [Wallhaven](https://alpha.wallhaven.cc/)
+* [InterfaceLIFT](https://interfacelift.com/wallpaper/downloads/date/any/)
+* [The Paper Wall](http://thepaperwall.com/index.php)
+* [Bing Homepage Gallery](http://www.bing.com/gallery)
+* [Desktoppr](https://www.desktoppr.co/wallpapers)
+* [Psiu Puxa Wallpapers](http://psiupuxa3.webflow.io/)
+
+#### Mobile
+
+* [Mobiles Wall](http://www.mobileswall.com/)
+* [WLPPR](http://wlppr.co/)
+
 ## Antivirus, firewall & security
 
 * [Eset NOD32 Antivirus](https://www.eset.com/)
