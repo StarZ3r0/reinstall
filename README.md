@@ -28,6 +28,8 @@ useful apps and configs
 
 * set up [Google Public DNS](https://developers.google.com/speed/public-dns/?hl=hu-HU)
 * [Harden Windows 10 - A Security Guide](http://hardenwindows10forsecurity.com/index.html)
+* [Windows Environment Variables](https://ss64.com/nt/syntax-variables.html)
+* enable Bash
 
 ### Shell extension
 
@@ -127,6 +129,7 @@ useful apps and configs
 
 ### Communication
 
+* [Messenger for Desktop](https://messengerfordesktop.com/)
 * [Thunderbird](https://www.mozilla.org/hu/thunderbird/)
 * [Teamspeak](https://www.teamspeak.com/)
 * [Discord](https://discordapp.com/)
@@ -345,9 +348,15 @@ useful apps and configs
 
 ## Android
 
+* [Andy](https://www.andyroid.net/) - android emulator
 * [Dark Sky](https://play.google.com/store/apps/details?id=net.darksky.darksky) - the most accurate source of hyperlocal weather information
+
+### Chrome extension
+
+* [Social Fixer](http://socialfixer.com/)
 
 ## Useful links
 
 * [Neszetools](http://neszetools.hu/) - best app collection
 * [Lifehacker App Directory](http://lifehacker.com/the-lifehacker-app-directory-curates-the-best-apps-for-5803257)
+* [The setup](https://usesthis.com/)
