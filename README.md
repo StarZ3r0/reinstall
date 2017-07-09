@@ -16,6 +16,8 @@ useful apps and configs
 ## Windows 
 
 * cmd
+* [cmder](http://cmder.net/)
+* [ConEmu](https://conemu.github.io/)
 * PowerShell
 * [cmder](http://cmder.net/) `WIN` - portable console emulator for Windows
 * [PatchCleaner](https://www.hibridlevel.hu/)
