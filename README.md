@@ -33,6 +33,7 @@ useful apps and configs
 * [Make Windows 10 Start, Run, Shutdown Faster](http://www.thewindowsclub.com/make-windows-startup-run-shutdown-faster)
 * [Context Menu Editors](http://www.thewindowsclub.com/remove-click-context-menu-items-editors)
 * [Win 10 aktiválás](http://bithumen.ru/forums.php?action=viewpost&postid=1925596) `HU`
+* [Dynamic ssh tunneling with putty to secure web traffic](http://blog.buttewifi.com/2010/01/28/dynamic-ssh-tunneling-with-putty-to-secure-web-traffic/)
 * enable Bash
 
 ### Shell extension
@@ -217,6 +218,7 @@ useful apps and configs
 * [Freemake Video Downloader](http://www.freemake.com/hu/downloads/)
 * [Freemake Video Converter](http://www.freemake.com/hu/)
 * [Miro Video Converter](http://www.mirovideoconverter.com/)
+* [PopCorn MKV AudioConverter](https://www.videohelp.com/software/PopCorn-MKV-AudioConverter)
 
 ### Audio rippers and tagging
 
@@ -351,22 +353,30 @@ useful apps and configs
 
 * [Steam](http://store.steampowered.com/)
 * [Arena chess](http://www.playwitharena.com/)
+* [Chessbase](http://en.chessbase.com/)
 
 ## Others, fun
 
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
 
+## Linux
+
+* [fman](https://fman.io/)
+
 ## Android
 
 * [Andy](https://www.andyroid.net/) - android emulator
 * [Dark Sky](https://play.google.com/store/apps/details?id=net.darksky.darksky) - the most accurate source of hyperlocal weather information
+* [BSRemote](http://www.bsremote.conspro.ro/)
 
 ### Chrome extension
 
 * [Social Fixer](http://socialfixer.com/)
+* [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal)
 
 ## Useful links
 
 * [Neszetools](http://neszetools.hu/) - best app collection
 * [Lifehacker App Directory](http://lifehacker.com/the-lifehacker-app-directory-curates-the-best-apps-for-5803257)
-* [The setup](https://usesthis.com/)
+* [The setup](https://usesthis.com/) - what do people use to get stuff done?
+* [Android alkalmazások](https://prohardver.hu/tema/android_alkalmazasok_szoftver_kibeszelo_topik_ninc/hsz_95151-95200.html)
