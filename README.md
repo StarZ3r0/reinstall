@@ -75,6 +75,8 @@ useful apps and configs
 * [Eset NOD32 Antivirus](https://www.eset.com/)
 * [GlassWire](https://www.glasswire.com/)
 * [Sandboxie](https://www.sandboxie.com/)
+* [hashcat](https://hashcat.net/hashcat/)
+* [VeraCrypt](https://veracrypt.codeplex.com/) - VeraCrypt is a free disk encryption software and that is based on TrueCrypt 7.1a.
 
 ## Backup
 
@@ -316,9 +318,7 @@ useful apps and configs
 * [Geek Uninstaller](https://geekuninstaller.com/)
 * [ProcessExplorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
 * [ShadowPlay](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/)
-* [hashcat](https://hashcat.net/hashcat/)
 * [Recordit](http://recordit.co/) - record screencasts with GIF support
-* [VeraCrypt](https://veracrypt.codeplex.com/) - VeraCrypt is a free disk encryption software and that is based on TrueCrypt 7.1a.
 
 ### Learning
 
