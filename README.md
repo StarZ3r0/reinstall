@@ -29,6 +29,10 @@ useful apps and configs
 * set up [Google Public DNS](https://developers.google.com/speed/public-dns/?hl=hu-HU)
 * [Harden Windows 10 - A Security Guide](http://hardenwindows10forsecurity.com/index.html)
 * [Windows Environment Variables](https://ss64.com/nt/syntax-variables.html)
+* [Fix Windows 10 privacy](https://fix10.isleaked.com/)
+* [Make Windows 10 Start, Run, Shutdown Faster](http://www.thewindowsclub.com/make-windows-startup-run-shutdown-faster)
+* [Context Menu Editors](http://www.thewindowsclub.com/remove-click-context-menu-items-editors)
+* [Win 10 aktiválás](http://bithumen.ru/forums.php?action=viewpost&postid=1925596) `HU`
 * enable Bash
 
 ### Shell extension
@@ -75,6 +79,7 @@ useful apps and configs
 * [Composer](https://getcomposer.org)
 * [HostsMan](http://www.abelhadigital.com/hostsman)
 * [Beyond Compare](https://www.scootersoftware.com)
+* [Prepros](https://prepros.io/)
 
 ### SQL manipulate
 
@@ -113,6 +118,7 @@ useful apps and configs
 * [Wget for Windows](http://gnuwin32.sourceforge.net/packages/wget.htm)
 * [NetToolset](http://nettoolset.inteliance.com/)
 * [NirSoft CurrPorts](http://www.nirsoft.net/utils/cports.html)
+* [stunnel](http://www.stunnel.org)
 
 ### Download manager
 
@@ -292,6 +298,10 @@ useful apps and configs
 * [BareTail](https://www.baremetalsoft.com/baretail/) - tail for Windows
 * [Geek Uninstaller](https://geekuninstaller.com/)
 * [ProcessExplorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
+* [ShadowPlay](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/)
+* [hashcat](https://hashcat.net/hashcat/)
+* [Recordit](http://recordit.co/) - record screencasts with GIF support
+* [VeraCrypt](https://veracrypt.codeplex.com/) - VeraCrypt is a free disk encryption software and that is based on TrueCrypt 7.1a.
 
 ### Learning
 
