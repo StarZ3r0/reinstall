@@ -66,6 +66,7 @@ useful apps and configs
 * [Bing Homepage Gallery](http://www.bing.com/gallery)
 * [Desktoppr](https://www.desktoppr.co/wallpapers)
 * [Psiu Puxa Wallpapers](http://psiupuxa3.webflow.io/)
+* [Artpip](https://www.artpip.com/) - transform your desktop into an art gallery of the world's greatest fine art and photography
 
 #### Mobile
 
