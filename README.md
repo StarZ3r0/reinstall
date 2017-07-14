@@ -186,6 +186,12 @@ useful apps and configs
 * [FileZilla](https://filezilla-project.org/)
 * [FlashFXP](https://www.flashfxp.com/)
 
+#### FileZilla settings
+
+Site manager - choose site - Advanced tab:
+* Use synchronized browsing
+* Directory comparison
+
 ## Gfx
 
 * [Adobe Photoshop 2017](http://www.adobe.com/hu/products/photoshop/features.html)
