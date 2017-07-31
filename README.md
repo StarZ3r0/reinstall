@@ -25,6 +25,7 @@ useful apps and configs
 * [Driver Easy](https://www.drivereasy.com/)
 * [Win32Whois](http://www.gena01.com/win32whois/)
 * [OneDrive](https://onedrive.live.com/about/hu-hu/)
+* [Hibridlevél](https://www.hibridlevel.hu/) `HU`
 
 ### Config
 
