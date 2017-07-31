@@ -107,6 +107,7 @@ useful apps and configs
 * [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
 * [HeidiSQL](https://www.heidisql.com/)
 * [Neor Profile SQL](http://www.profilesql.com)
+* [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ### XAMPP alternatives
 
