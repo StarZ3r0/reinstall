@@ -64,7 +64,7 @@ useful apps and configs
 * [Wallhaven](https://alpha.wallhaven.cc/)
 * [InterfaceLIFT](https://interfacelift.com/wallpaper/downloads/date/any/)
 * [The Paper Wall](http://thepaperwall.com/index.php)
-* [Bing Homepage Gallery](http://www.bing.com/gallery)
+* [Bing Homepage Gallery](http://www.bing.com/) `/gallery` don't working
 * [Desktoppr](https://www.desktoppr.co/wallpapers)
 * [Psiu Puxa Wallpapers](http://psiupuxa3.webflow.io/)
 * [Artpip](https://www.artpip.com/) - transform your desktop into an art gallery of the world's greatest fine art and photography
