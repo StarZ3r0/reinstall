@@ -378,6 +378,7 @@ Site manager - choose site - Advanced tab:
 ## Game
 
 * [Steam](http://store.steampowered.com/)
+* [Uplay](https://uplay.ubi.com/)
 * [Arena chess](http://www.playwitharena.com/)
 * [Chessbase](http://en.chessbase.com/)
 
