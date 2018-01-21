@@ -169,6 +169,7 @@ useful apps and configs
 
 * [Skype](https://www.skype.com/hu/)
 * [HexChat](https://hexchat.github.io/)
+* [WhatsApp](https://www.whatsapp.com/?l=hu)
 
 ### Browsers
 
