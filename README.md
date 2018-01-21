@@ -115,6 +115,7 @@ useful apps and configs
 * [Oracle VM VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
 * [Scotch Box](https://box.scotch.io/)
+* [Laravel Homestead](https://laravel.com/docs/5.5/homestead)
 
 ### ST3 packages
 
