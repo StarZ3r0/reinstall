@@ -384,6 +384,7 @@ Site manager - choose site - Advanced tab:
 
 ## Others, fun
 
+* [Általános Nyomtatványkitöltő (ÁNYK)](https://www.nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvany_apeh/keretprogramok/abevjava_install.html)
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
 
 ## Linux
