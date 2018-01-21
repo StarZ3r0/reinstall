@@ -120,6 +120,7 @@ useful apps and configs
 ### ST3 packages
 
 * [Popular Packages](https://packagecontrol.io/browse/popular)
+* [WakaTime](https://wakatime.com)
 
 ### ST3 alternatives
 
