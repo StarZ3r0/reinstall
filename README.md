@@ -25,7 +25,6 @@ useful apps and configs
 * [Driver Easy](https://www.drivereasy.com/)
 * [Win32Whois](http://www.gena01.com/win32whois/)
 * [OneDrive](https://onedrive.live.com/about/hu-hu/)
-* [Hibridlevél](https://www.hibridlevel.hu/) `HU`
 
 ### Config
 
@@ -369,6 +368,7 @@ Site manager - choose site - Advanced tab:
 * [Bible-Discovery](http://www.mobilbiblia.hu/biblia-letoltes.php) `HU`
 * [Hibridlevél](https://www.hibridlevel.hu/) `HU`
 * [Clear Admin](http://www.clearadmin.hu/) `HU`
+* [Általános Nyomtatványkitöltő (ÁNYK)](https://www.nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvany_apeh/keretprogramok/abevjava_install.html) `HU`
 
 ### CD / DVD / Blu-ray burning
 
@@ -384,7 +384,6 @@ Site manager - choose site - Advanced tab:
 
 ## Others, fun
 
-* [Általános Nyomtatványkitöltő (ÁNYK)](https://www.nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvany_apeh/keretprogramok/abevjava_install.html)
 * [RatioMaster Plus 2.1](http://www.sb-innovation.de/f46/ratiomaster-plus-2-1-a-33029/)
 
 ## Linux
