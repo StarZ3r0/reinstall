@@ -101,6 +101,7 @@ useful apps and configs
 * [HostsMan](http://www.abelhadigital.com/hostsman)
 * [Beyond Compare](https://www.scootersoftware.com)
 * [Prepros](https://prepros.io/)
+* [NSSM - the Non-Sucking Service Manager](https://nssm.cc/)
 
 ### SQL manipulate
 
