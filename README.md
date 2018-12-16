@@ -90,8 +90,7 @@ useful apps and configs
 ## Dev
 
 * [JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
-* [Sublime Text 3](https://www.sublimetext.com/3)
-Pluginok: 
+* [Sublime Text 3](https://www.sublimetext.com/3) Pluginok:
 * [XAMPP](https://www.apachefriends.org/hu/index.html) (multiple version + memcache + https)
 * [Python](https://www.python.org/downloads/)
 * [Ruby](https://rubyinstaller.org/)
