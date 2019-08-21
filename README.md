@@ -103,6 +103,9 @@ useful apps and configs
 * [Prepros](https://prepros.io/)
 * [NSSM - the Non-Sucking Service Manager](https://nssm.cc/)
 
+### PHP related
+* [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+
 ### SQL manipulate
 
 * [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
