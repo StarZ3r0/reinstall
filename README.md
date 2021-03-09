@@ -104,6 +104,7 @@ useful apps and configs
 * [NSSM - the Non-Sucking Service Manager](https://nssm.cc/)
 
 ### PHP related
+
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ### SQL manipulate
@@ -120,6 +121,10 @@ useful apps and configs
 * [Vagrant](https://www.vagrantup.com/)
 * [Scotch Box](https://box.scotch.io/)
 * [Laravel Homestead](https://laravel.com/docs/5.5/homestead)
+
+### Visual Studio Code extensions
+
+* [Codestream](https://www.codestream.com/)
 
 ### ST3 packages
 
